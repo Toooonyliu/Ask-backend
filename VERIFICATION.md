@@ -12,8 +12,8 @@
 ## Not yet verified
 
 - Actual browser rendering, browser-enforced CORS, and full animated timing after this migration. DOM checks are not a visual browser review.
-- Live Render deployment, GitHub Pages update, and public end-to-end requests. Render account access is still needed to complete deployment.
+- Visual review and a full user interaction in a real browser on the public frontend.
 - Live Google sign-in and cross-device history after deployment; existing account code was preserved and regression-tested.
 - Assignment video and submission form.
 
-`DEPLOYED_BACKEND_URL` is intentionally empty until Render assigns a real URL. Do not publish the frontend before setting and verifying it.
+The Render backend is deployed at https://ask-backend-s507.onrender.com. Live reading, invalid-date rejection, CORS response headers, and OPTIONS preflight passed. The frontend URL configuration has been updated accordingly.

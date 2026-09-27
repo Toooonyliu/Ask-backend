@@ -8,7 +8,11 @@ Frontend repository: https://github.com/Toooonyliu/toooonyliu.github.io
 
 Backend repository: https://github.com/Toooonyliu/Ask-backend
 
-**Deployment status:** this version is prepared and tested locally. Add the actual public Render URL here after deploying. The existing public frontend is still the HW3 version until its changes are published.
+**Backend deployment:** https://ask-backend-s507.onrender.com
+
+Health check: https://ask-backend-s507.onrender.com/health
+
+Live reading, invalid-input responses, and CORS headers were verified on September 27, 2026. The frontend integration is configured for this URL.
 
 ## What runs where
 

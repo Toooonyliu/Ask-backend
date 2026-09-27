@@ -21,4 +21,4 @@ Tool: Codex (GPT-6-based coding agent in this session). Used for repository insp
 
 ## Verification and remaining work
 
-Backend unit tests and frontend regression tests were run, and a real calendar request succeeded. Public deployment, live-browser verification, video recording, and course form submission remain separate steps; this log does not claim they are complete.
+Backend unit tests and frontend regression tests were run, and a real calendar request succeeded. The user created the GitHub repository and deployed the backend through Render with guided setup. Live backend requests and CORS headers passed. Codex configured and published the frontend integration. Live-browser verification, video recording, and course form submission remain separate steps.
